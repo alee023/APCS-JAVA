@@ -152,7 +152,6 @@ public class SuperArray implements List {
 		System.out.println(mayfield);
 
 		mayfield.add(3,99);  //Q: Significance of this test call?
-			// causes IndexOutOfBoundsException
 		System.out.println("Printing SuperArray mayfield post-insert...");
 		System.out.println(mayfield);
 		mayfield.add(2,88);
