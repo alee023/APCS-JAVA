@@ -79,7 +79,7 @@ public class OrderedArrayList {
 
     // main method solely for testing purposes
     public static void main( String[] args ) {
-		
+	
 		OrderedArrayList Franz = new OrderedArrayList();
 
 		System.out.println("\nValues to add via addLinear() calls:");
