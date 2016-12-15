@@ -5,9 +5,9 @@
 
 import cs1.Keyboard ; 
 
-public class GuessNumbe {
-    private int lowerBound ; 
-    private int upperBound ;    
+public class GuessNumber {
+    private int lowerBound = 0 ; 
+    private int upperBound = 100 ;    
     private int uI ; // userInput
 
     public static void main( String[] args ) {
